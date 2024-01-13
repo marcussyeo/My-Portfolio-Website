@@ -369,7 +369,7 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  /* height: 70vh; */
 }
 
 .contact-info-upper-container {
@@ -409,6 +409,7 @@ section {
 footer {
   height: 26vh;
   margin: 0 1rem;
+  padding: 2rem;
 }
 
 footer p {
